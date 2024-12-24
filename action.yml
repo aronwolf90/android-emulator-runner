@@ -1,4 +1,4 @@
-name: 'Android Emulator Runner'
+name: 'Android Emulator Runner (fork)'
 description: 'Installs, configures and starts an Android Emulator directly on hardware-accelerated runners.'
 author: 'Reactive Circus'
 branding:
